@@ -9,8 +9,8 @@ I came from Hong Kong🇭🇰, currently studying for a Bachelor of Computer Sci
 * 🌍  I'm based in Taiwan
 * 🖥️  See my portfolio at [edison-web-dev](http://edison-web-dev.vercel.app)
 * ✉️  You can contact me at [wei-ran@tuta.io](mailto:wei-ran@tuta.io)
-* 🧠  I'm learning Ionic framework
-* 🤝  I'm open to collaborating on Interseting open-source projects
+* 🧠  I'm learning Ionic framework and Django
+* 🤝  I'm open to collaborating on Interseting open-source projects
 
 ### Skills
 
